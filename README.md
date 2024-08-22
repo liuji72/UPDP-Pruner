@@ -3,7 +3,7 @@ Official Repo for AAAI 2024 UPDP
 
 ## Framework
 
-![Uploading image.png…]()
+
 
 ## Experiments
 
