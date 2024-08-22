@@ -1,5 +1,5 @@
 # UPDP-Pruner
-Official Repo for AAAI 2024 UPDP[https://ojs.aaai.org/index.php/AAAI/article/view/29296]
+Official Repo for AAAI 2024 ![UPDP](https://ojs.aaai.org/index.php/AAAI/article/view/29296)
 
 ## Framework
 
@@ -9,7 +9,7 @@ Official Repo for AAAI 2024 UPDP[https://ojs.aaai.org/index.php/AAAI/article/vie
 ## Experiments
 
 - **Pruned Results**
-
+![](Images/results.png)
 ### Citation 
 @inproceedings{liu2024updp, <br>
   title={Updp: A unified progressive depth pruner for cnn and vision transformer}, <br>
