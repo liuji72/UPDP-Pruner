@@ -1,7 +1,9 @@
 # UPDP-Pruner
 Official Repo for AAAI 2024 UPDP
 
-## FrameWork
+## Framework
+
+![Uploading image.png…]()
 
 ## Experiments
 
