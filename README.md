@@ -4,9 +4,10 @@ Official Repo for AAAI 2024 UPDP[https://ojs.aaai.org/index.php/AAAI/article/vie
 ## Framework
 
 - **UPDP framework**
-
+![](Images/overview.png)
 
 ## Experiments
+
 - **Pruned Results**
 
 ### Citation 
