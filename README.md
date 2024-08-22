@@ -3,11 +3,11 @@ Official Repo for AAAI 2024 UPDP[https://ojs.aaai.org/index.php/AAAI/article/vie
 
 ## Framework
 
--**UPDP framework**
+- **UPDP framework**
 
 
 ## Experiments
-
+- **Pruned Results**
 
 ### Citation 
 @inproceedings{liu2024updp, <br>
